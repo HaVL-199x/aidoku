@@ -1,0 +1,18 @@
+{
+	"info": {
+		"id": "vi.hentaivn",
+		"lang": "vi",
+		"name": "HentaiVN",
+		"version": 7,
+		"url": "https://ayamehentai.cc/",
+		"nsfw": 2
+	},
+	"listings": [
+		{
+			"name": "Chương mới"
+		},
+		{
+			"name": "Đã hoàn thành"
+		}
+	]
+}
